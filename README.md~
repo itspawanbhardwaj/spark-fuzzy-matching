@@ -95,7 +95,3 @@ Dataset after fuzzy join
 +--------------------+--------------------+-------+--------------------+----+--------+
 only showing top 5 rows
 ~~~
-
-## Library used
-
-__[stringmetric](https://github.com/rockymadden/stringmetric)__ ( :dart: String metrics and phonetic algorithms for Scala (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein). )
