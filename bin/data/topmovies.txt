@@ -1,0 +1,46 @@
+rank	title	year	duration	gener	ratings
+1	The Shawshank Redemption	1994	142 min	"Crime, Drama"	9.3
+2	The Godfather	1972	175 min	"Crime, Drama"	9.2
+3	The Dark Knight	2008	 | 152	P| Action, Crime, Drama	9.0
+4	The Godfather: Part II	1974	202 min	"Crime, Drama"	9.0
+5	Pulp Fiction	1994	154 min	"Crime, Drama"	8.9
+6	Schindler's List	1993	195 min	"Biography, Drama, History"	8.9
+7	The Lord of the Rings: The Return of the King	2003	 | 201	P| 	dventure, Drama, Fantasy
+9	The Good, the Bad and the Ugly	1966	178 min	"Western"	8.9
+10	Inception	2010	 | 148	P| Action, Adventure, Sci-Fi	8.8
+11	The Lord of the Rings: The Fellowship of the Ring	2001	 | 178	P	 Adventure, Drama, Fantasy
+12	Forrest Gump	1994	 | 142	P| Drama, Romance	8.8
+13	Star Wars: Episode V - The Empire Strikes Back	1980	124 min	P	ction, Adventure, Fantasy
+14	Fight Club	1999	139 min	"Drama"	8.8
+15	Coco (I)	2017	105 min	PAnimation, Adventure, Comedy	8.7
+16	Star Wars: Episode IV - A New Hope	1977	121 min	PAction, 	dventure, Fantasy
+17	Goodfellas	1990	146 min	"Biography, Crime, Drama"	8.7
+18	The Matrix	1999	136 min	"Action, Sci-Fi"	8.7
+19	The Lord of the Rings: The Two Towers	2002	 | 179	P| Adventure, 	rama, Fantasy
+20	One Flew Over the Cuckoo's Nest	1975	133 min	"Drama"	8.7
+22	Interstellar	2014	 | 169	P| Adventure, Drama, Sci-Fi	8.6
+23	Léon: The Professional	1994	110 min	"Crime, Drama, Thriller"	8.6
+24	The Silence of the Lambs	1991	118 min	"Crime, Drama, Thriller"	8.6
+25	Se7en	1995	127 min	"Crime, Drama, Mystery"	8.6
+26	Saving Private Ryan	1998	169 min	"Drama, War"	8.6
+27	The Usual Suspects	1995	106 min	"Crime, Drama, Mystery"	8.6
+28	City of God	2002	130 min	"Crime, Drama"	8.6
+29	Spirited Away	2001	125 min	PAnimation, Adventure, Family	8.6
+30	The Intouchables	2011	112 min	"Biography, Comedy, Drama"	8.6
+31	Life Is Beautiful	1997	 | 116	P| Comedy, Drama, War	8.6
+32	It's a Wonderful Life	1946	130 min	PDrama, Family, Fantasy	8.6
+36	Back to the Future	1985	116 min	PAdventure, Comedy, Sci-Fi	8.5
+37	Gladiator	2000	155 min	"Action, Adventure, Drama"	8.5
+38	The Prestige	2006	 | 130	P| Drama, Mystery, Sci-Fi	8.5
+39	Whiplash	2014	107 min	"Drama, Music"	8.5
+40	Your Name	2016	106 min	PAnimation, Drama, Fantasy	8.5
+41	The Departed	2006	151 min	"Crime, Drama, Thriller"	8.5
+42	The Green Mile	1999	189 min	"Crime, Drama, Fantasy"	8.5
+43	Raiders of the Lost Ark	1981	115 min	PAction, Adventure	8.5
+44	Apocalypse Now	1979	147 min	"Drama, War"	8.5
+45	Memento	2000	113 min	"Mystery, Thriller"	8.5
+46	Alien	1979	117 min	"Horror, Sci-Fi"	8.5
+47	American History X	1998	119 min	"Crime, Drama"	8.5
+48	Psycho	1960	109 min	"Horror, Mystery, Thriller"	8.5
+49	Terminator 2	1991	137 min	"Action, Sci-Fi, Thriller"	8.5
+50	The Pianist	2002	150 min	"Biography, Drama, Music"	8.5
