@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>pb</groupId>
+    <artifactId>spark-fuzzy-matching_2.10</artifactId>
+    <packaging>jar</packaging>
+    <description>spark-fuzzy-matching</description>
+    <version>0.0.1</version>
+    <licenses>
+        <license>
+            <name>GPL-3.0</name>
+            <url>http://opensource.org/licenses/GPL-3.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>spark-fuzzy-matching</name>
+    <organization>
+        <name>pb</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.10.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.10</artifactId>
+            <version>2.0.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_2.10</artifactId>
+            <version>2.2.6</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.rockymadden.stringmetric</groupId>
+            <artifactId>stringmetric-core_2.10</artifactId>
+            <version>0.27.3</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>SparkPackagesRepo</id>
+            <name>Spark Packages Repo</name>
+            <url>https://dl.bintray.com/spark-packages/maven/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>stringmetriccore</id>
+            <name>string metric core</name>
+            <url>https://mvnrepository.com/artifact/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
