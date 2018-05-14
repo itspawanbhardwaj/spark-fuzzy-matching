@@ -1,6 +1,7 @@
 
 
 ## Metrics and algorithms
+
 * __[Dice / Sorensen](http://en.wikipedia.org/wiki/Dice%27s_coefficient)__ (Similarity metric)
 * __[Double Metaphone](http://en.wikipedia.org/wiki/Metaphone)__  phonetic metric and algorithm)
 * __[Hamming](http://en.wikipedia.org/wiki/Hamming_distance)__ (Similarity metric)
