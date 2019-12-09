@@ -1,7 +1,7 @@
 // Your sbt build file. Guides on how to write one can be found at
 // http://www.scala-sbt.org/0.13/docs/index.html
 
-organization := "pb"
+organization := "com.pb"
 
 name := "spark-fuzzy-matching"
 
