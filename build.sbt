@@ -1,11 +1,11 @@
 // Your sbt build file. Guides on how to write one can be found at
 // http://www.scala-sbt.org/0.13/docs/index.html
 
-organization := "com.pb"
+organization := "com.github.itspawanbhardwaj"
 
 name := "spark-fuzzy-matching"
 
-version := "0.0.1"
+version := "1.0.0"
 
 crossScalaVersions := Seq("2.11.8", "2.10.6")
 
@@ -18,12 +18,13 @@ initialize := {
 
 sparkVersion := "2.0.0"
 
+useGpg := true
 // change the value below to change the directory where your zip artifact will be created
 spDistDirectory := target.value
 
 spAppendScalaVersion := true
 
-//credentials += Credentials(Path.userHome / ".ivy2" / ".sbtcredentials")
+credentials += Credentials(Path.userHome / ".ivy2" / ".sbtcredentials")
 
 sparkComponents += "sql"
 
@@ -36,7 +37,8 @@ licenses := Seq("GPL-3.0" -> url("http://opensource.org/licenses/GPL-3.0"))
 resolvers += Resolver.mavenLocal
 
 resolvers ++= Seq(
-  "string metric core" at  "https://mvnrepository.com/artifact/"
+  "string metric core" at  "https://mvnrepository.com/artifact/",
+  "sbt-sonatype" at "http://repo1.maven.org/maven2"
 )
 
 libraryDependencies ++= Seq(

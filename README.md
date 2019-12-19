@@ -1,5 +1,11 @@
-
-
+## Maven Central
+```xml
+<dependency>
+  <groupId>com.github.itspawanbhardwaj</groupId>
+  <artifactId>spark-fuzzy-matching_2.10</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 ## Metrics and algorithms
 
 * __[Dice / Sorensen](http://en.wikipedia.org/wiki/Dice%27s_coefficient)__ (Similarity metric)
