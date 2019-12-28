@@ -5,9 +5,11 @@ organization := "com.github.itspawanbhardwaj"
 
 name := "spark-fuzzy-matching"
 
-version := "1.0.0"
+version := "1.0.1"
 
 crossScalaVersions := Seq("2.11.8", "2.10.6")
+
+scalaVersion := "2.11.7"
 
 initialize := {
   val _ = initialize.value
@@ -43,6 +45,6 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "2.2.6" % "test",
-  "com.rockymadden.stringmetric" %% "stringmetric-core" % "0.27.3"
+  "com.rockymadden.stringmetric" %% "stringmetric-core" % "0.27.4"
 
 )
