@@ -63,7 +63,7 @@
 
 
 ## Example
-The project contains a FuzzyMatchingJoinExample which works as follows:
+The project contains a [FuzzyMatchingJoinExample](https://github.com/itspawanbhardwaj/spark-fuzzy-matching/blob/master/src/test/scala/com/pb/fuzzy/matching/FuzzyMatchingJoinExample.scala "FuzzyMatchingJoinExample") which works as follows:
 
 ~~~
 Dataset with proper names
