@@ -1,4 +1,7 @@
+
 ## Maven Central
+
+### For Scala 2.10
 ```xml
 <dependency>
   <groupId>com.github.itspawanbhardwaj</groupId>
@@ -6,6 +9,15 @@
   <version>1.0.0</version>
 </dependency>
 ```
+ ### For Scala 2.11
+```xml
+<dependency>
+  <groupId>com.github.itspawanbhardwaj</groupId>
+  <artifactId>spark-fuzzy-matching_2.11</artifactId>
+  <version>1.0.1</version>
+</dependency>
+```
+
 ## Metrics and algorithms
 
 * __[Dice / Sorensen](http://en.wikipedia.org/wiki/Dice%27s_coefficient)__ (Similarity metric)
